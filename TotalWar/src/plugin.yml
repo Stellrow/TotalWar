@@ -1,0 +1,10 @@
+name: TotalWar
+author: Stellrow
+version: 1.0
+api-version: 1.13
+main: me.Stellrow.TotalWar.TotalWar
+
+commands:
+  totalwar:
+    usage: /totalwar
+    description: Main plugin command!

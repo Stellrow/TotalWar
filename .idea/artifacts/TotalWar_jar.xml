@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TotalWar:jar">
+    <output-path>$USER_HOME$/Desktop/D/Default paper/1.15 paper/plugins</output-path>
+    <root id="archive" name="TotalWar.jar">
+      <element id="module-output" name="TotalWar" />
+    </root>
+  </artifact>
+</component>
